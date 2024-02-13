@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body{
+    background-color: bisque;
+}
+
+.tarefa{
+    width: 50%;
+    color: #cf1a1a;
+    
+
+}
+.tarefaList{
+    width: 90%;
+    color: blueviolet;
+    text-decoration: line-through;
+}
